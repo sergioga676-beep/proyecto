@@ -24,3 +24,6 @@ footer address { font-style: normal; }
   width: 35px;
   height: 35px;
 }
+.btn-whatsapp img:hover {
+  transform: scale(1.1);
+}
