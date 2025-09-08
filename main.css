@@ -8,7 +8,7 @@ footer address { font-style: normal; }
   position: fixed;
   width: 60px;
   height: 60px;
-  bottom: 20px;
+  bottom: 80px;
   right: 20px;
   background-color: #25d366;
   border-radius: 50%;
@@ -23,7 +23,4 @@ footer address { font-style: normal; }
 .btn-whatsapp img {
   width: 35px;
   height: 35px;
-}
-.btn-whatsapp img:hover {
-  transform: scale(1.1);
 }
